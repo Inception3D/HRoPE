@@ -26,10 +26,6 @@
   <strong>TL;DR:</strong> Scene-centric positional encoding for multi-view transformers via patch-level, plane-induced homographies.
 </p>
 
+https://github.com/user-attachments/assets/b319be2c-e028-43b3-a5c9-425d88d77249
 
-<video src="assets/hrope-demo-web.mp4" poster="assets/hrope-demo-poster.jpg" controls preload="none" width="100%">
-  <a href="assets/hrope-demo-web.mp4">
-    <img src="assets/hrope-demo-poster.jpg" alt="Watch the HRoPE introduction video" width="100%">
-  </a>
-</video>
  <strong>Coming soon. </strong>
