@@ -27,9 +27,9 @@
 </p>
 
 
-<video src="https://gaohchen.github.io/HRoPE/assets/video/hrope-demo-web.mp4" poster="https://gaohchen.github.io/HRoPE/assets/video/hrope-demo-poster.jpg" controls preload="none" width="100%">
-  <a href="https://gaohchen.github.io/HRoPE/assets/video/hrope-demo-web.mp4">
-    <img src="https://gaohchen.github.io/HRoPE/assets/video/hrope-demo-poster.jpg" alt="Watch the HRoPE introduction video" width="100%">
+<video src="assets/hrope-demo-web.mp4" poster="assets/hrope-demo-poster.jpg" controls preload="none" width="100%">
+  <a href="assets/hrope-demo-web.mp4">
+    <img src="assets/hrope-demo-poster.jpg" alt="Watch the HRoPE introduction video" width="100%">
   </a>
 </video>
-**Coming soon.**
+ <strong>Coming soon. </strong>
